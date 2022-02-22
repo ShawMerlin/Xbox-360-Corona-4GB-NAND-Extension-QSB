@@ -23,7 +23,7 @@ The Solder will jump and make a bridge between the pads and the QSB
 
 I recommend OshPark if you are in the United States to order the boards if you only need a small batch.  
 JLCPCB is also a great choice and can do larger batches for less.  Shipping is also cheaper if you can wait for the slow boat.  :)
-I recommend .8mm for the board width but it is not critical.
+I recommend 1 mm for the board width but it is not critical.
 
 There is an optional 0805 SMD LED pad and companion 0805 SMD resistor pad that will light up when the Programmer is plugged in.
 It will not impact any flashing with or without but looks nice.  (ง •̀_•́)ง
