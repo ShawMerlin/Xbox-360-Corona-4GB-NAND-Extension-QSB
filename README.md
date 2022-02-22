@@ -30,6 +30,10 @@ It will not impact any flashing with or without but looks nice.  (ง •̀_•�
 
 I welcome all feedback and critiques as I alway strive to make products easier and the experience better for everyone.
 
+Check out my modding adventures at https://www.facebook.com/GeekIslandGaming
+Also thanks to Weekend Modder and Xtralife Mods for the support!!
+
+https://www.facebook.com/ExtraLife-Modification-Services-103652372230020
 
 Product is Licensed but can be used free for Commerical Use.  Just please don't make changes to the Gerber Files.
 https://www.gnu.org/licenses/gpl-3.0.txt
