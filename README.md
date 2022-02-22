@@ -6,7 +6,7 @@ For new folks soldering, I can take a long time to develop the patience and cont
 
 To help out with Flashing the 4GB Nand on Xbox 360 Corona Boards, this QSB provides larger and strong solder pads for the programmer.
 
-These were designed to work with 4GB Nand eMMC Programmers designed by [@Element18592](https://github.com/Element18592) (He is a huge inspiration for me)
+This QSB was designed to work with 4GB Nand eMMC Programmers designed by [@Element18592](https://github.com/Element18592) (He is a huge inspiration for me)
 https://themodshop.co/shop/hardware.html
 
 
