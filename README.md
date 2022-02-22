@@ -6,9 +6,13 @@ For new folks soldering, I can take a long time to develop the patience and cont
 
 To help out with Flashing the 4GB Nand on Xbox 360 Corona Boards, this QSB provides larger and strong solder pads for the programmer.
 
+These were designed to work with 4GB Nand eMMC Programmers designed by Element18592 (He is a huge inspiration for me)
+https://themodshop.co/shop/hardware.html
+
+
 ** Make sure to use lots of flux.  Also do not hold your iron on the board for more than 2 seconds at a time
 
-To solder the Header portion, Align the board up with the markings and apply heat one of the header pads on the xbox 360.
+To solder the Header portion to the Xbox 360, Align the board up with the markings and apply heat one of the header pads on the xbox 360.
 Apply solder so it melts to this pad, when you have enough solder melted, drag your iron along the pad to the QSB and hold it next to the QSB.
 The Solder will jump and make a bridge between the pads and the QSB
 
