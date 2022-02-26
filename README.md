@@ -26,7 +26,7 @@ I recommend OshPark if you are in the United States to order the boards if you o
 JLCPCB is also a great choice and can do larger batches for less.  Shipping is also cheaper if you can wait for the slow boat.  :)
 I recommend 1 mm for the board width but it is not critical.
 
-There is an optional 0805 SMD LED pad and companion 0805 SMD resistor pad that will light up when the Programmer is plugged in.
+There is an optional 0805 SMD LED pad and companion 0805 SMD resistor pad that will light up when the power is plugged in.
 It will not impact any flashing with or without but looks nice.  (ง •̀_•́)ง
 
 I welcome all feedback and critiques as I alway strive to make products easier and the experience better for everyone.
