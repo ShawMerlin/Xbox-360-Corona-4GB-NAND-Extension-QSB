@@ -10,7 +10,9 @@ This QSB was designed to work with 4GB Nand eMMC Programmers designed by [@Eleme
 It has the color of wires to use with the Xflasher-360 and also the number values that will be used with a SD Tool V2.2 or the 4GB USB Tool
 https://themodshop.co/shop/hardware.html
 
-This QSB will also work perfectly with the PicoFlasher. WeekendModder has a great diagramn for this - https://weekendmodder.com/picoflasher.html
+This QSB will also work perfectly with the PicoFlasher. 
+
+WeekendModder has a great diagramn for this - https://weekendmodder.com/picoflasher.html
 
 ** Make sure to use lots of flux.  Also do not hold your iron on the board for more than 2 seconds at a time
 
