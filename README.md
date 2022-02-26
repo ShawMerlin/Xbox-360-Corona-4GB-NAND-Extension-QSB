@@ -40,7 +40,7 @@ Product is Licensed but can be used free for Commerical Use.  Just please don't 
 https://www.gnu.org/licenses/gpl-3.0.txt
 
 
-Change Log
+--Change Log--
 2/26/2022 - Added to the SilkScreen the PicoFlasher works with this QSB Board (Colors are the same too)  :D
 2/25/2022 - Moved the C up to the top with Green.  Changed Geek Island Logo
 
