@@ -18,9 +18,9 @@ To solder the Header portion to the Xbox 360, Align the board up with the markin
 Apply solder so it melts to this pad, when you have enough solder melted, drag your iron along the pad to the QSB and hold it next to the QSB.
 The Solder will jump and make a bridge between the pads and the QSB
 
-![image](https://user-images.githubusercontent.com/70423454/155050342-66d070f9-4ec3-4029-ba87-390f9fa3f10e.png)
+![image](https://user-images.githubusercontent.com/70423454/155852250-eef964d4-2525-4463-a301-cab1ad949bdb.png)
 
-
+![image](https://user-images.githubusercontent.com/70423454/155852265-2fb41352-2d71-4396-be04-8865dee1d20b.png)
 
 I recommend OshPark if you are in the United States to order the boards if you only need a small batch.  
 JLCPCB is also a great choice and can do larger batches for less.  Shipping is also cheaper if you can wait for the slow boat.  :)
