@@ -39,7 +39,7 @@ https://www.facebook.com/ExtraLife-Modification-Services-103652372230020
 Product is Licensed but can be used free for Commerical Use.  Just please don't make changes to the Gerber Files.
 https://www.gnu.org/licenses/gpl-3.0.txt
 
-[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 --Change Log--
 
