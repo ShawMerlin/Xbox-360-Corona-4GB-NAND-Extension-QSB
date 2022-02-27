@@ -41,7 +41,7 @@ https://www.gnu.org/licenses/gpl-3.0.txt
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
---Change Log--
+**--Change Log--
 
 2/26/2022 - Added to the SilkScreen "the PicoFlasher" as it will works with this QSB Board (Colors are the same too)  :D
 
