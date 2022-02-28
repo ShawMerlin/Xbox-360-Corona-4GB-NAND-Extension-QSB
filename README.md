@@ -29,6 +29,8 @@ I recommend 1 mm for the board width but it is not critical.
 There is an optional 0805 SMD LED pad and companion 0805 SMD resistor pad that will light up when the power is plugged in.
 It will not impact any flashing with or without but looks nice.  (ง •̀_•́)ง
 
+It is recommended to use a fine soldering bit as the pads are small. Size 900M-T-I is a great choice.
+
 I welcome all feedback and critiques as I alway strive to make products easier and the experience better for everyone.
 
 Check out my modding adventures at https://www.facebook.com/GeekIslandGaming
