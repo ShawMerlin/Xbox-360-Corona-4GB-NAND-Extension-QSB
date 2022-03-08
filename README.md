@@ -34,6 +34,7 @@ It is recommended to use a fine soldering bit as the pads are small. Size 900M-T
 I welcome all feedback and critiques as I alway strive to make products easier and the experience better for everyone.
 
 Check out my modding adventures at https://www.facebook.com/GeekIslandGaming
+
 Special thanks to Weekend Modder and Xtralife Mods for the support!!
 
 https://www.facebook.com/ExtraLife-Modification-Services-103652372230020
