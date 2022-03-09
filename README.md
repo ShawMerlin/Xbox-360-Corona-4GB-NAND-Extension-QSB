@@ -22,6 +22,13 @@ The Solder will jump and make a bridge between the pads and the QSB
 
 ![image](https://user-images.githubusercontent.com/70423454/155852265-2fb41352-2d71-4396-be04-8865dee1d20b.png)
 
+The above Nand Extension QSB will work perfectly with the PICO but it does have extra pads that the PICOFlash does not use.
+
+To help with this, we also have a PICO Edition which has only the required pads and only requires 4 wires to be soldered.
+
+![image](https://user-images.githubusercontent.com/70423454/157382950-936b6054-c5ab-4d09-967f-b3b135d7ab98.png)
+
+
 I recommend OshPark if you are in the United States to order the boards if you only need a small batch.  
 JLCPCB is also a great choice and can do larger batches for less.  Shipping is also cheaper if you can wait for the slow boat.  :)
 I recommend 1 mm for the board width but it is not critical.
