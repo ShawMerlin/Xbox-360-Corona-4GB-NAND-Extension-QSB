@@ -24,7 +24,7 @@ The Solder will jump and make a bridge between the pads and the QSB
 
 The above Nand Extension QSB will work perfectly with the PICO but it does have extra pads that the PICOFlash does not use.
 
-To help with this, we also have a PICO Edition which has only the required pads and only requires 4 wires to be soldered.
+To help with this, we also have a PICO Edition which has only the required pads and only requires 5 wires to be soldered.
 
 ![image](https://user-images.githubusercontent.com/70423454/157382950-936b6054-c5ab-4d09-967f-b3b135d7ab98.png)
 
