@@ -53,6 +53,8 @@ https://www.gnu.org/licenses/gpl-3.0.txt
 
 **--Change Log--**
 
+3/9/2022 - My Gerber Export had the title border included which made OSHPark think the entire sheet was to be printed.  This has been fixed and confirmed working
+
 2/28/2022 - Added SilkScreen lines to help align the pads on the Xbox 360.
           - Added a Ground Plane on the top and bottom of the board.
           - Version 2 Official Released.  Created a release on GitHub.
