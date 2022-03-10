@@ -51,6 +51,7 @@ https://www.gnu.org/licenses/gpl-3.0.txt
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 **--Change Log--**
+3/10/2022 - Found that the silkscreen on the PICO Edition had the Orange Pad marked as GP9 instead of GP7.  Changed to match Weekend Modders Color Scheme.
 
 3/9/2022 - My Gerber Export had the title border included which made OSHPark think the entire sheet was to be printed.  This has been fixed and confirmed working
          - Added a Green/GP21 Pad on the Pico Edition that can be soldered to the Xbox 360 and then to the PICO.
