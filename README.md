@@ -26,7 +26,7 @@ The above Nand Extension QSB will work perfectly with the PICO but it does have 
 
 To help with this, we also have a PICO Edition which has only the required pads and only requires 5 wires to be soldered.
 
-![image](https://user-images.githubusercontent.com/70423454/157532132-eafd329e-1cf8-4137-afca-641a41d8559d.png)
+![image](https://user-images.githubusercontent.com/70423454/157704503-471a8980-f5a9-4aed-9aac-67f3664b47b6.png)
 
 I recommend OshPark if you are in the United States to order the boards if you only need a small batch.  
 JLCPCB is also a great choice and can do larger batches for less.  Shipping is also cheaper if you can wait for the slow boat.  :)
