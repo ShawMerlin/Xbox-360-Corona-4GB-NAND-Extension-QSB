@@ -68,5 +68,5 @@ https://www.gnu.org/licenses/gpl-3.0.txt
 
 2/26/2022 - Added to the SilkScreen "the PicoFlasher" as it will works with this QSB Board (Colors are the same too)  :D
 
-2/25/2022 - Moved the C up to the top with Green.  Changed Geek Island Logo.
+2/25/2022 - Moved the C up to the top with Green and changed Geek Island Logo.
 
